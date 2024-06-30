@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-madhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu-madhusanka" /> </p>
 
+
+---
 - 🔭 I’m currently working on **HCI University Project**
 
 - 🌱 I’m currently learning **Python, mern, Software Testing Related Courses**
